@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'SySE (Servicio Selección Empresarial) surge con la necesidad que se tiene en Guatemala para reclutar personal en las industrias de crecimiento constante en el país. '
-datePublished: '2016-03-25T23:31:45.194Z'
-dateModified: '2016-03-25T23:31:38.335Z'
+datePublished: '2016-03-25T23:33:06.810Z'
+dateModified: '2016-03-25T23:32:15.505Z'
 title: Quienes somos?
 author: []
 sourcePath: _posts/2016-03-25-quienes-somos.md
